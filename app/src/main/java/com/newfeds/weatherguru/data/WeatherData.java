@@ -1,7 +1,7 @@
 package com.newfeds.weatherguru.data;
 
 /**
- * Created by Yousuf on 1/3/2016.
+ * Created by GT on 1/3/2016.
  */
 public class WeatherData {
     private int ivWeatherIcon;
