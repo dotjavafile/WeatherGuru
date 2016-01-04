@@ -14,7 +14,7 @@ import com.newfeds.weatherguru.data.WeatherData;
 import java.util.ArrayList;
 
 /**
- * Created by Yousuf on 1/3/2016.
+ * Created by GT on 1/3/2016.
  */
 public class WeatherAdapter extends ArrayAdapter<WeatherData>{
 
