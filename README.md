@@ -12,3 +12,8 @@ For the cool button effects I used a libary from android arsenal called small ba
   -Weather map
 
 Visit my site http://newfeds.com
+
+![Alt text](http://i.imgur.com/9odoZZf.png)
+![Alt text](http://i.imgur.com/agFCgb9.png)
+![Alt text](http://i.imgur.com/AV8gfSK.png)
+![Alt text](http://i.imgur.com/SOtbHCG.png)
