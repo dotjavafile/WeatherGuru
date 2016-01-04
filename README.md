@@ -7,3 +7,5 @@ Uses json parsed data from openweathermap to get and display weather data.
   -Shows current weather.
   -16 day weather forecast
   -Weather map
+
+Visit my site http://newfeds.com
